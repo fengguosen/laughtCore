@@ -1,0 +1,4 @@
+laughtCore
+==========
+
+project jar
